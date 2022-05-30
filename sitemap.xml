@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/a-propos-de/</loc>
+    <loc>https://maxencedewadder.github.io/PorteFolio/a-propos-de/</loc>
     <lastmod>2022-05-12T10:23:52+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://maxencedewadder.github.io/PorteFolio/categories/</loc>
     <lastmod>2022-05-12T10:23:52+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/a-propos-de/chad/</loc>
+    <loc>https://maxencedewadder.github.io/PorteFolio/a-propos-de/chad/</loc>
     <lastmod>2022-05-12T10:23:52+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/d%C3%A9veloppement-web/</loc>
+    <loc>https://maxencedewadder.github.io/PorteFolio/categories/d%C3%A9veloppement-web/</loc>
     <lastmod>2022-05-12T10:23:52+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://maxencedewadder.github.io/PorteFolio/</loc>
     <lastmod>2022-05-12T10:23:52+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/</loc>
+    <loc>https://maxencedewadder.github.io/PorteFolio/projets/</loc>
     <lastmod>2022-05-12T10:23:52+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/seance-2/</loc>
+    <loc>https://maxencedewadder.github.io/PorteFolio/projets/seance-2/</loc>
     <lastmod>2022-05-12T10:23:52+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/projet/</loc>
+    <loc>https://maxencedewadder.github.io/PorteFolio/categories/projet/</loc>
     <lastmod>2022-05-09T10:23:52+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/seance-3/</loc>
+    <loc>https://maxencedewadder.github.io/PorteFolio/projets/seance-3/</loc>
     <lastmod>2022-05-09T10:23:52+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/test/</loc>
+    <loc>https://maxencedewadder.github.io/PorteFolio/projets/test/</loc>
     <lastmod>2022-05-09T10:23:52+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://maxencedewadder.github.io/PorteFolio/blog/</loc>
     <lastmod>2022-04-25T11:14:40+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/premier-article/</loc>
+    <loc>https://maxencedewadder.github.io/PorteFolio/blog/premier-article/</loc>
     <lastmod>2022-04-25T11:14:40+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://maxencedewadder.github.io/PorteFolio/tags/</loc>
   </url>
 </urlset>
